@@ -5,10 +5,12 @@ Welcome to this Airbnb Data Analysis project, where real-world listing data is a
 This project focuses on turning raw Airbnb data into clear, business-relevant insights through data cleaning, visualization, and exploratory analysis.
 
 📂 Repository Structure
+```
 │── Airbnb_Data_Analysis.ipynb
 │── compressed_data.csv.gz
 │── Executive_Summary.md
 │── README.md
+```
 
 🔍 Project Objectives
 
