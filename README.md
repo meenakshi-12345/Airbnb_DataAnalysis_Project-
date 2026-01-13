@@ -1,3 +1,7 @@
+
+![airbnb](https://github.com/user-attachments/assets/447c99de-fc80-4740-a2f2-8011b96e2a25)
+
+
 🏠 Airbnb Data Analysis – Exploratory & Insight-Driven Project
 
 Welcome to this Airbnb Data Analysis project, where real-world listing data is analyzed to understand pricing behavior, room-type trends, neighborhood popularity, and availability patterns using Python.
